@@ -13,3 +13,5 @@ or
  notepad++ filename
 
 aded some contents
+
+added the new git commands
