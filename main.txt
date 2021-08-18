@@ -1,0 +1,1 @@
+This is the main text file created by notepad++ main.txt command, this is done whn the notepad ++ text editor is available
