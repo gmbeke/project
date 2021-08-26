@@ -15,3 +15,4 @@ or
 aded some contents
 
 added the new git commands
+we must have to de this first
