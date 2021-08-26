@@ -16,3 +16,6 @@ aded some contents
 
 added the new git commands
 we must have to de this first
+
+
+My name is Gabriel and my friend is Ahmed from Dar es salaam
